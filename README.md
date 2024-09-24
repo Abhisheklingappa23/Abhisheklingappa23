@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ABHISHEK L
-- 🌱 I’m currently working as Junior Software Developer ...
+- 🌱 I’m currently working as Software Developer ...
 - 📫 How to reach me abhisheklingappa23@gmail.com
 
 <!---
